@@ -1,4 +1,2 @@
 # belajar-kolaborasi
-Belajar Squash Changes<br>
-di Dicoding<br>
-sangat menyenangkan
+Belajar Squash Changes di Dicoding Indonesia sangat menyenangkan
